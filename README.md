@@ -90,7 +90,7 @@ npm start
 ---
 
 
-📝 Configuração
+## 📝 Configuração
 
 Edite o arquivo config.json para definir suas credenciais e preferências:
 
@@ -116,7 +116,7 @@ checkInterval: Intervalo em milissegundos para checar o status da aplicação (9
 ---
 
 
-🚀 Uso
+## 🚀 Uso
 
 Assim que o bot estiver configurado e rodando, ele começará a monitorar automaticamente sua aplicação e enviará notificações no canal configurado no channelId.
 Você poderá acompanhar status, reinícios, commits e muito mais diretamente pelo Discord!
@@ -125,7 +125,7 @@ Você poderá acompanhar status, reinícios, commits e muito mais diretamente pe
 ---
 
 
-📜 Comandos
+## 📜 Comandos
 
 > Nota: Atualmente o bot é focado em monitoramento automático, mas futuramente serão adicionados comandos para personalização via Discord.
 
@@ -133,7 +133,7 @@ Você poderá acompanhar status, reinícios, commits e muito mais diretamente pe
 ---
 
 
-🤝 Contribuição
+## 🤝 Contribuição
 
 Quer ajudar a melhorar o Squarecloud Radar?
 Sinta-se à vontade para:
@@ -148,7 +148,7 @@ Compartilhar feedbacks e ideias no Discord da CodeX Labs
 ---
 
 
-📄 Licença
+## 📄 Licença
 
 Este projeto está licenciado sob a licença customizada CodeX Labs License — consulte o arquivo LICENSE para detalhes completos.
 
@@ -156,7 +156,7 @@ Este projeto está licenciado sob a licença customizada CodeX Labs License — 
 ---
 
 
-🙏 Créditos
+## 🙏 Créditos
 
 Desenvolvido com ❤️ pela CodeX Labs
 Fundador: S1ngul4rity (Discord: s1ngul4rity.dev)
@@ -167,13 +167,13 @@ Agradecimentos especiais à comunidade por apoio e feedbacks constantes!
 ---
 
 
-📬 Contato
+## 📬 Contato
 
 Quer falar conosco?
 
 Discord: s1ngul4rity.dev
 
-Website: https://codexlabs.squareweb.app
+Website: https://huggingface.co/spaces/S1ngul4rity/CodeXLabs
 
 
 ---
